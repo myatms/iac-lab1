@@ -7,3 +7,4 @@ chmod -R /var/www/
 echo "Hello World 1" > /var/www/html/index.html
 systemctl start nginx
 systemctl enable nginx
+echo "Done"
